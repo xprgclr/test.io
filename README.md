@@ -10,8 +10,8 @@ Test tavaline
 
 >Test quote
 
-'
+'''
 mov ah,09h 
 lea dx,
 mess int 21h 
-'
+'''
